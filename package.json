@@ -1,0 +1,14 @@
+{
+  "name": "canwatch",
+  "version": "1.0.0",
+  "description": "single product landing page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Candra Kriswinarto",
+  "license": "MIT",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
